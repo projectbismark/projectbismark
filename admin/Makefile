@@ -1,6 +1,7 @@
 # call markdown on the md file
 # add stylesheet to top
 # add date and hash to bottom
+# sage wisdom: http://jblevins.org/notes/markdown-makefiles
 
 MARKDOWN = markdown
 BUILDDIR = html
