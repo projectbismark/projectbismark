@@ -29,13 +29,13 @@ BISmark before you agree to participate in the BISmark study.
 
 We collect three types of information, for the following purposes:
 
-- Participant Information is collected as part of the enrollment process. This
+- **Participant Information** is collected as part of the enrollment process. This
   information will be used to maintain contact with participants for the
   duration of the BISmark study.
-- Service Information is also collected as part of the enrollment process. This
+- **Service Information** is also collected as part of the enrollment process. This
   information will be used for research, analysis, and evaluation of broadband
   Internet service performance.
-- Active Measurement Information is collected by the BISmark home gateway
+- **Active Measurement Information** is collected by the BISmark home gateway
   device provided to participants for the duration of their participation in
   the BISmark study. This information will be used for research, analysis, and
   evaluation of broadband Internet service performance. Active Measurement
