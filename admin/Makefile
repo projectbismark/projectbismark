@@ -15,7 +15,7 @@ $(BUILDDIR)/%.html: %.md header.html footer.html
 	markdown $< >> $@
 	@cat footer.html | \
 		sed "s/#GIT_REV#/`git log --pretty=format:"%h" -n 1 $<`/g; \
-		     s/#GIT_DATE#/`git log --pretty=format:"%ci" -n 2 $<`/g;" >> $@
+		     s/#GIT_DATE#/`git log --pretty=format:"%ci" -n 1 $<`/g;" >> $@
 
 clean:
 	$(RM) $(BUILDDIR)/*.html
