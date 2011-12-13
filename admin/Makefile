@@ -8,9 +8,10 @@ BUILDDIR = html
 
 $(shell [ -d "$(BUILDDIR)" ] || mkdir -p $(BUILDDIR) )
 
-all: $(patsubst %.md,$(BUILDDIR)/%.html,$(wildcard *.md))
+all: $(patsubst %.md,$(BUILDDIR)/%/index.html,$(wildcard *.md))
 
-$(BUILDDIR)/%.html: %.md header.html footer.html
+$(BUILDDIR)/%/index.html: %.md header.html footer.html
+	mkdir $(BUILDDIR)/$*/
 	@cat header.html > $@
 	markdown $< >> $@
 	@cat footer.html | \
@@ -18,6 +19,6 @@ $(BUILDDIR)/%.html: %.md header.html footer.html
 		     s/#GIT_DATE#/`git log --pretty=format:"%ci" -n 1 $<`/g;" >> $@
 
 clean:
-	$(RM) $(BUILDDIR)/*.html
+	rm -rf $(BUILDDIR)
 
 .PHONY: clean all
