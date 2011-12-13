@@ -9,6 +9,8 @@ BUILDDIR = html
 $(shell [ -d "$(BUILDDIR)" ] || mkdir -p $(BUILDDIR) )
 
 all: $(patsubst %.md,$(BUILDDIR)/%/index.html,$(wildcard *.md))
+	cp screen.css $(BUILDDIR)/
+	cp print.css $(BUILDDIR)/
 
 $(BUILDDIR)/%/index.html: %.md header.html footer.html
 	mkdir $(BUILDDIR)/$*/
