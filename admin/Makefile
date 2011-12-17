@@ -13,7 +13,7 @@ all: $(patsubst %.md,$(BUILDDIR)/%/index.html,$(wildcard *.md))
 	cp print.css $(BUILDDIR)/
 
 $(BUILDDIR)/%/index.html: %.md header.html footer.html
-	mkdir $(BUILDDIR)/$*/
+	$(shell [ -d "$(BUILDDIR)/$*/" ] || mkdir "$(BUILDDIR)/$*/" )
 	@cat header.html > $@
 	markdown $< >> $@
 	@cat footer.html | \
