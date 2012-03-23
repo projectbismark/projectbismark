@@ -79,13 +79,12 @@ disclosure" below:
 - email address
 - telephone number
 - street address of the Internet service termination location
-- gateway WAN interface IP address
 - gateway MAC addresses
 
-Other information collected as part your participation in BISmark (e.g. ISP or
-network topology) could potentially be used to identify you in certain
-circumstances. You must assess and accept the risks of participating in BISmark
-before you agree to participate in the BISmark study.
+Other information collected as part your participation in BISmark (e.g. ISP,
+network topology, or IP address) could potentially be used to identify you in
+certain circumstances. You must assess and accept the risks of participating in
+BISmark before you agree to participate in the BISmark study.
 
 Accessing collected information
 -------------------------------
@@ -104,6 +103,11 @@ team in the following ways:
 - Active Measurement Information and Service Information, with the exception of
   PII, will be accessible on networkdashboard.org to anyone who knows the LAN
   MAC address of your BISmark home gateway.
+- Some Active Measurement Information, excluding PII, will be made publicly
+  accessible via Measurement Lab (<http://measurementlab.net/data>) in the
+  interest of advancing Internet research. Information about the Measurement
+  Lab privacy policy may be found at
+  <http://measurementlab.net/content/privacy-policy-aup>.
 - The BISmark team will utilize the Active Measurement Information and Service
   Information to produce scholarly works such as articles, reports, and
   presentations that will be published and publicly accessible. These results
