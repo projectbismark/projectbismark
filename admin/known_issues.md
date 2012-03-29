@@ -14,16 +14,17 @@ Known Issues
 ### Sporadic wireless dropouts, mainly on 5 GHz radio ("BISmark5")
 
 We have observed and received reports of intermittent wireless failures for
-clients connected to the BISmark router. This appears to mainly affect clients
-connected to the 5 GHz radio (wireless network named "BISmark5").  Clients
-typically lose connectivity without disassociating from the wireless network,
-and connectivity is later restored in approximately 10 minutes or less when the
-client disassociates and reassociates with the network.
+clients connected to the BISmark router. Clients typically lose connectivity
+without disassociating from the wireless network, and connectivity is later
+restored in approximately 10 minutes or less, or when the client disassociates
+and reassociates with the network.
 
 **Workarounds:**
 
-- This problem seems to affect clients on the 2.4 GHz radio (wireless network
-  named "BISmark") less frequently. Try connecting to this network instead.
+- This problem may affect clients connected to the 5 GHz radio (wireless
+  network named "BISmark5") more frequently than clients on the 2.4 GHz radio
+  (wireless network named "BISmark"). Try connecting to the 2.4 GHz ("Bismark")
+  network instead.
 - If you suddenly lose all connectivity to the Internet, disconnecting and
   reconnecting to the wireless network and/or turning wireless off and then on
   again will reestablish connectivity.
@@ -35,12 +36,10 @@ client disassociates and reassociates with the network.
 
 **Solutions:**
 
-- We do not have a solution to this problem at this time, but a software update
-  in the near future may improve wireless reliability and performance. We will
-  notify you prior to deploying this update.
+- We do not have a solution to this problem at this time.
 
 Reporting bugs and other problems
 ---------------------------------
 
 If you experience any problems other than the problem described above, please
-contact <bismark-core@projectbismark.net> to notify us and/or seek help.
+contact <bismark-core@projectbismark.net> to notify us or seek help.
