@@ -1,6 +1,9 @@
-pre code {
+pre, code {
     border: none;
     background-color: none;
+    font-family: courier, monospace;
+    font-weight: bold;
+    letter-spacing: 0.1em;
     padding: 0;
 }
 
