@@ -8,8 +8,8 @@ Cc: bismark-devel@projectbismark.net
 Hello all,
 
 I'm pleased to announce that the BISmark team has just released a new
-version of the BISmark router software (firmware), codenamed 'Quirm'. It
-has a bunch of new features to make network measurement and
+version of the BISmark router software (firmware), code-named 'Quirm'.
+It has a bunch of new features to make network measurement and
 experimentation better, while also smoothing down some of the rough
 edges from our previous release. Keep on reading below to learn more
 about the release and how you can start using it.
@@ -17,7 +17,7 @@ about the release and how you can start using it.
 We've also made some changes to our privacy statement to promote
 Internet research. Keep reading for more on that too.
 
-I want to thank you for particpating in Project BISmark. We've learned a
+I want to thank you for participating in Project BISmark. We've learned a
 lot (and continue to learn!) about how to conduct user-friendly
 measurements from real homes, thanks to your help and patience. Please
 let us know how we can do better -- we're always listening at
@@ -42,7 +42,7 @@ plan to make available soon. We will let you know when new experiments
 are available.
 
 To make the BISmark router more like other home routers, we enabled the
-reset and wifi buttons. The reset button on the bottom of the router
+reset and WiFi buttons. The reset button on the bottom of the router
 will now restore the router to its original state if held for five
 seconds -- handy if you accidentally misconfigure your router. The WiFi
 button on the front of the router now toggles the WiFi radios in the
