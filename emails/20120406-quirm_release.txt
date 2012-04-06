@@ -92,8 +92,8 @@ on your BISmark router. The BISmark router does not collect information
 from your network traffic, and the BISmark team will never share your
 personal information with others.
 
-You can find the full text of the new policy here:
+You can find the full text of the new statement here:
 http://projectbismark.net/participant/privacy/
 
-The current policy, which will be replaced on April 15, is here:
+The current statement, which will be replaced on April 15, is here:
 http://projectbismark.net/participant/privacy/klatch.html
