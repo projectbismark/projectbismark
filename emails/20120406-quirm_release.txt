@@ -87,10 +87,10 @@ data to 1) researchers collaborating with the BISmark team, and 2)
 Measurement Lab to enable our use of M-Lab infrastructure to improve
 measurement quality. These changes will take effect on 15 April 2012.
 
-These changes only affect measurements performed by the BISmark software
-on your BISmark router. The BISmark router does not collect information
-from your network traffic, and the BISmark team will never share your
-personal information with others.
+These changes only affect measurements of your Internet service
+performance by the BISmark software on your BISmark router. The BISmark
+router does not collect information from your network traffic, and the
+BISmark team will never share your personal information with others.
 
 You can find the full text of the new statement here:
 http://projectbismark.net/participant/privacy/
