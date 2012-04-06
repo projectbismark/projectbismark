@@ -103,6 +103,10 @@ team in the following ways:
 - Active Measurement Information and Service Information, with the exception of
   PII, will be accessible on networkdashboard.org to anyone who knows the LAN
   MAC address of your BISmark home gateway.
+- From time to time, Active Measurement Information and Service Information
+  excluding PII may be made available to collaborators working with the BISmark
+  team for research purposes. Collaborators shall also be bound by the
+  information disclosure constraints described in this document.
 - Some Active Measurement Information, excluding PII, will be made publicly
   accessible via Measurement Lab (<http://measurementlab.net/data>) in the
   interest of advancing Internet research. Information about the Measurement
