@@ -23,7 +23,7 @@ and reassociates with the network.
 
 - This problem may affect clients connected to the 5 GHz radio (wireless
   network named "BISmark5") more frequently than clients on the 2.4 GHz radio
-  (wireless network named "BISmark"). Try connecting to the 2.4 GHz ("Bismark")
+  (wireless network named "BISmark"). Try connecting to the 2.4 GHz ("BISmark")
   network instead.
 - If you suddenly lose all connectivity to the Internet, disconnecting and
   reconnecting to the wireless network and/or turning wireless off and then on
