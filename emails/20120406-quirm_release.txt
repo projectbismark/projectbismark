@@ -1,4 +1,4 @@
-Subject: Announcing new BISmark firmware release
+Subject: Announcing new BISmark firmware release and Privacy Statement changes
 To: bismark-announce@projectbismark.net
 To: bismark-users@projectbismark.net
 To: bismark-participants@projectbismark.net
@@ -14,8 +14,8 @@ experimentation better, while also smoothing down some of the rough
 edges from our previous release. Keep on reading below to learn more
 about the release and how you can start using it.
 
-We've also made some changes to our privacy statement to promote
-Internet research. Keep reading for more on that too.
+We've also made some changes to our privacy statement that will take
+effect on 1 May 2012. Keep reading for more on that too.
 
 I want to thank you for participating in Project BISmark. We've learned a
 lot (and continue to learn!) about how to conduct user-friendly
@@ -31,8 +31,8 @@ New features
 First off, we've made the router a bit easier to use. You can access the
 router management interface by visiting myrouter.projectbismark.net from
 inside your home network. From there, you can click through directly to
-your router's data page on networkdashboard.org (no more MAC addresses!)
-or visit the improved router configuration app.
+your router's data page on networkdashboard.org (no more manual entry of
+MAC addresses!) or visit the improved router configuration app.
 
 We've also added a new BISmark Experiments panel to the the router
 configuration application. This panel, accessed via the "BISmark >
@@ -75,25 +75,25 @@ https://github.com/projectbismark/projectbismark/wiki/WNDR3700-Flashing
 We may be able to send you a router if you live in an 'interesting' area
 or have an 'interesting' ISP. We are particularly interested in talking
 to Europeans, Australians, Canadians, and folks in the U.S. who are
-located outside of CA and GA and who do not have Comcast or AT&T as an
-ISP. Sign up at http://goo.gl/bxBB0
+located outside of the states of California and Georgia and who do not
+have Comcast or AT&T as an ISP. Sign up at http://goo.gl/bxBB0
 
-Privacy statement changes
+Privacy Statement changes
 -------------------------
 
-As I mentioned above, we have made some small changes to our privacy
-statement. These changes are related to disclosure of active measurement
-data to 1) researchers collaborating with the BISmark team, and 2)
-Measurement Lab to enable our use of M-Lab infrastructure to improve
-measurement quality. These changes will take effect on 15 April 2012.
+As I mentioned above, we have made some  changes to our Privacy
+Statement. Beginning on 1 May 2012, the BISmark team may share active
+measurement data collected by BISmark routers with other researchers and
+Measurement Lab, and the public IP address of the collecting BISmark
+router will be included in any active measurement data that is shared.
 
-These changes only affect measurements of your Internet service
-performance by the BISmark software on your BISmark router. The BISmark
-router does not collect information from your network traffic, and the
-BISmark team will never share your personal information with others.
+These changes only affect data related to performance measurements of
+your Internet service by the BISmark software on your BISmark router.
+The BISmark router does not collect information from your network
+traffic, and the BISmark team will never share your personal information
+with others (not even other researchers).
 
-You can find the full text of the new statement here:
-http://projectbismark.net/participant/privacy/
-
-The current statement, which will be replaced on April 15, is here:
-http://projectbismark.net/participant/privacy/klatch.html
+You can check out the full text of the current and new Privacy
+Statements, the line-by-line changes, and the rationale for these
+changes in more detail in our blog post about this change at
+http://blog.projectbismark.net/project-bismark-privacy-statement-changes
