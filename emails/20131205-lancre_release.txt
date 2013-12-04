@@ -23,7 +23,7 @@ lancre is named after a location in Discworld [1]. Although "lanker" is
 acceptable, we prefer to call it "lawnkruh" (with or without the guttural
 consonant) in honor of its genesis in the bowels of Paris over the summer of
 2013. "lankre" is definitely out, upon pain of being cast into Deepest Klatch
-for all eternity.
+for all eternity. Without an Internet connection.
 
 [1] http://en.wikipedia.org/wiki/Discworld_geography
 
