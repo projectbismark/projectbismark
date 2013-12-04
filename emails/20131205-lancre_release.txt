@@ -12,9 +12,9 @@ in making this release possible.
 Please contact us at bismark-core@projectbismark.net with any issues, comments,
 or suggestions.
 
+Guilherme
 Srikanth
 Sam
-Guilherme
 Sarthak
 Nick
 
