@@ -13,11 +13,10 @@ Known Issues
 
 ### Sporadic wireless dropouts, mainly on 5 GHz radio ("BISmark5")
 
-We have observed and received reports of intermittent wireless failures for
+We have observed very intermittent wireless failures for
 clients connected to the BISmark router. Clients typically lose connectivity
-without disassociating from the wireless network, and connectivity is later
-restored in approximately 10 minutes or less, or when the client disassociates
-and reassociates with the network.
+by disassociating from the wireless network when they are far from the router, 
+and connectivity is reestabilished by associating with the wireless network.
 
 **Workarounds:**
 
@@ -25,9 +24,9 @@ and reassociates with the network.
   network named "BISmark5") more frequently than clients on the 2.4 GHz radio
   (wireless network named "BISmark"). Try connecting to the 2.4 GHz ("BISmark")
   network instead.
-- If you suddenly lose all connectivity to the Internet, disconnecting and
-  reconnecting to the wireless network and/or turning wireless off and then on
-  again will reestablish connectivity.
+- If you suddenly lose all connectivity to the Internet,reconnecting to the 
+  wireless network and/or turning wireless off and then on again will 
+  reestablish connectivity.
 - If you have a machine that absolutely requires uninterrupted Internet
   connectivity, you should consider connecting it to the BISmark router with an
   ethernet cable.
