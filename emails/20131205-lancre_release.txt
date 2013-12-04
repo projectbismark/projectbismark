@@ -45,3 +45,16 @@ depending on our current deployment status. Sign up at http://goo.gl/bxBB0
 Privacy:
 Our privacy policy has remained unchanged since quirm.
 http://projectbismark.net/participant/privacy/
+
+Here are the highlights of the release - if you're a user:
+	• Support for the TP-Link WDR3600
+	• Built-in support for 3g/4g USB dongles
+	• Package signing support for more security
+	• New package bismark-registration installed by default - users have to register with Georgia Tech on first boot.
+
+Here are the highlights of the release - if you are interested in running experiments:
+	• Based on OpenWRT Attitude Adjustment
+	• Linux kernel 3.3.8
+	• Pluggable Web10g kernel module 
+	• Added mutual exclusion support for bandwidth hogging experiments
+	• New package bismark-cron to manage crontabs for bismark experiments
