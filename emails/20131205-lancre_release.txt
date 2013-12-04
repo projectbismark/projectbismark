@@ -1,0 +1,47 @@
+The BISmark team is pleased to announce the release of our latest stable
+firmware lancre (see below for pronunciation guide). The new release, which is
+based on OpenWRT's latest stable release Attitude Adjustment, offers
+improvements in usability, security, and in deploying experiments. Among the
+major highlights are a registration package that allows users to register with
+Georgia Tech for better trouble shooting and support, stable wireless, support
+for newer hardware, and better security with signed package repositories.
+
+The team would like to acknowledge the support of volunteers and early adopters
+in making this release possible.
+
+Please contact us at bismark-core@projectbismark.net with any issues, comments,
+or suggestions.
+
+Srikanth
+Sam
+Guilherme
+Sarthak
+Nick
+
+Pronunciation guide: Following on from the tradition set by klatch and quirm,
+lancre is named after a location in Discworld [1]. Although "lanker" is
+acceptable, we prefer to call it "lawnkruh" (with or without the guttural
+consonant) in honor of its genesis in the bowels of Paris over the summer of
+2013. "lankre" is definitely out, upon pain of being cast into Deepest Klatch
+for all eternity.
+
+[1] http://en.wikipedia.org/wiki/Discworld_geography
+
+Getting lancre:
+Already have a BISmark router? You can install the upgrade yourself, or
+we can do it for you if you give us permission. Full details are at
+https://github.com/projectbismark/projectbismark/wiki/Upgrading-to-lancre
+
+If you don't have a BISmark router, you can purchase a Netgear
+WNDR3700v2 or WNDR3800  or a TP-Link WDR3600 and follow the instructions for installing the
+BISmark firmware at
+https://github.com/projectbismark/projectbismark/wiki/BISmark-firmware-installation
+
+We may be able to send you a router if you live in an 'interesting' area
+or have an 'interesting' ISP. We have a lot of routers in California and Georgia 
+with Comcast, so if you match that profile, send us a note, we may send you a router
+depending on our current deployment status. Sign up at http://goo.gl/bxBB0
+
+Privacy:
+Our privacy policy has remained unchanged since quirm.
+http://projectbismark.net/participant/privacy/
