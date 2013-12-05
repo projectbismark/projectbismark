@@ -1,10 +1,10 @@
 The BISmark team is pleased to announce the release of our latest stable
-firmware lancre (see below for pronunciation guide). The new release, which is
-based on OpenWRT's latest stable release Attitude Adjustment, offers
-improvements in usability, security, and in deploying experiments. Among the
-major highlights are a registration package that allows users to register with
-Georgia Tech for better trouble shooting and support, stable wireless, support
-for newer hardware, and better security with signed package repositories.
+firmware, lancre (see below for a pronunciation guide.) The new release is based
+on OpenWRT's latest stable release, Attitude Adjustment, and offers improvements
+in usability, security, and flexibility. New features of this release include a
+registration system for helping us provide better troubleshooting and support,
+wireless stability improvements, support for new router hardware, and improved
+security.
 
 The team would like to acknowledge the support of volunteers and early adopters
 in making this release possible.
@@ -12,49 +12,48 @@ in making this release possible.
 Please contact us at bismark-core@projectbismark.net with any issues, comments,
 or suggestions.
 
-Guilherme
-Srikanth
-Sam
-Sarthak
-Nick
+Guilherme, Srikanth, Sam, Sarthak, Nick and the rest of the BISmark team
 
-Pronunciation guide: Following on from the tradition set by klatch and quirm,
-lancre is named after a location in Discworld [1]. Although "lanker" is
-acceptable, we prefer to call it "lawnkruh" (with or without the guttural
-consonant) in honor of its genesis in the bowels of Paris over the summer of
-2013. "lankre" is definitely out, upon pain of being cast into Deepest Klatch
-for all eternity. Without an Internet connection.
-
-[1] http://en.wikipedia.org/wiki/Discworld_geography
 
 Getting lancre:
-Already have a BISmark router? You can install the upgrade yourself, or
-we can do it for you if you give us permission. Full details are at
+Already have a BISmark router? You can install the upgrade yourself, or we can
+do it for you if you give us permission. Full details are at
 https://github.com/projectbismark/projectbismark/wiki/Upgrading-to-lancre
 
-If you don't have a BISmark router, you can purchase a Netgear
-WNDR3700v2 or WNDR3800  or a TP-Link WDR3600 and follow the instructions for installing the
+If you don't have a BISmark router, you can purchase a Netgear WNDR3700v2,
+Netgear WNDR3800, or TP-Link WDR3600, and follow the instructions for installing the
 BISmark firmware at
 https://github.com/projectbismark/projectbismark/wiki/BISmark-firmware-installation
 
-We may be able to send you a router if you live in an 'interesting' area
-or have an 'interesting' ISP. We have a lot of routers in California and Georgia 
-with Comcast, so if you match that profile, send us a note, we may send you a router
-depending on our current deployment status. Sign up at http://goo.gl/bxBB0
+We may be able to send you a router if you live in an 'interesting' area or have
+an 'interesting' ISP. We have a lot of routers in California and Georgia with
+Comcast, so if you don't match that profile, send us a note, we may send you a
+router depending on our current deployment status. Sign up at
+http://goo.gl/bxBB0
 
 Privacy:
-Our privacy policy has remained unchanged since quirm.
+Our privacy policy has not changed since the last release.
 http://projectbismark.net/participant/privacy/
 
-Here are the highlights of the release - if you're a user:
+Highlights of the release if you're a user:
+	• A user registration system; users must register with Georgia Tech on first boot
 	• Support for the TP-Link WDR3600
 	• Built-in support for 3g/4g USB dongles
 	• Package signing support for more security
-	• New package bismark-registration installed by default - users have to register with Georgia Tech on first boot.
 
-Here are the highlights of the release - if you are interested in running experiments:
+Highlights of the release if you're interested in running experiments:
 	• Based on OpenWRT Attitude Adjustment
 	• Linux kernel 3.3.8
-	• Pluggable Web10g kernel module 
+	• Pluggable Web10g kernel module
 	• Added mutual exclusion support for bandwidth hogging experiments
-	• New package bismark-cron to manage crontabs for bismark experiments
+	• Easier handling of crontabs for bismark experiments
+
+Pronunciation guide:
+Following from the tradition set by klatch and quirm, lancre is named after a
+location in Discworld [1]. Although "lanker" is acceptable, we prefer to call it
+"lawnkruh" (with or without the guttural consonant) in honor of its genesis in
+the bowels of Paris over the summer of 2013. "lankre" is definitely out, upon
+pain of being cast into Deepest Klatch for all eternity. Without an Internet
+connection.
+
+[1] http://en.wikipedia.org/wiki/Discworld_geography
