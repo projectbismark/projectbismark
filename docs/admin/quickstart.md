@@ -1,9 +1,6 @@
 Welcome to BISmark! Start here.
 ===============================
 
-This guide will help you set up and get started quickly with your BISmark
-router.
-
 ### 1. Connect your BISmark router to the Internet
 
 Follow the included Netgear Installation Guide to connect the BISmark router to
@@ -44,9 +41,8 @@ bottom of the screen to ensure your changes take effect.**
 ### 4. Register your BISmark router
 
 Before accessing the Internet using your BISmark router **we require that you
-register your router**. Until you have completed registration all attempts to
-access the Internet will redirect to a registration portal. You may visit the
-registration site at <https://register.projectbismark.net>.
+register your router**. All attempts to access the Internet will redirect to a
+registration portal at <https://register.projectbismark.net>.
 
 BISmark measurement indicator
 -----------------------------
