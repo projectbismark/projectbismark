@@ -8,8 +8,7 @@ router.
 
 Follow the included Netgear Installation Guide to connect the BISmark router to
 your home network and the Internet. You may connect the router to an existing
-home router, but it is preferable to connect it directly to your broadband
-modem.
+home router, but we prefer you connect it directly to your broadband modem.
 
 ### 2. Connect your computer to the BISmark router
 
@@ -24,15 +23,10 @@ DHCP. The default configuration of the BISmark router's LAN is as follows:
   802.11an)
 - Wireless network password: `bismark123`
 
-You may change any of these settings by visiting the router configuration
-application as described below.
-
 ### 3. Configure your BISmark router
 
-Start by visiting <http://myrouter.projectbismark.net>. You can learn more
-about the project from this start page, as well as accessing the router
-configuration page by clicking the "Configure your router" link. The default
-username and password are:
+Start by visiting <http://myrouter.projectbismark.net> and clicking the
+"Configure your router" link. The default username and password are:
 
 - Username: `root`
 - Password: `bismark123`
@@ -46,6 +40,13 @@ change passwords on both the 2.4 GHz and 5 GHz radio interfaces** ("radio0" and
 
 After making any configuration changes, **be sure to click "Save & Apply" at the
 bottom of the screen to ensure your changes take effect.**
+
+### 4. Register your BISmark router
+
+Before accessing the Internet using your BISmark router **we require that you
+register your router**. Until you have completed registration all attempts to
+access the Internet will redirect to a registration portal. You may visit the
+registration site at <https://register.projectbismark.net>.
 
 BISmark measurement indicator
 -----------------------------
